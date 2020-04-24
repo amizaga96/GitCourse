@@ -1,2 +1,0 @@
-# GitCourse
-test repositry
