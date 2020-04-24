@@ -1,7 +1,7 @@
 The Ami Zaga Project
 ====================
 
-![Zaga Project logo](/home/ami/Desktop/Git-Course/GitCourse/1NL.jpg "The Moby Project")
+![Zaga Project logo](./1NL.jpg "The Moby Project")
 
 Moby is an open-source project created by Docker to enable and accelerate software containerization.
 
